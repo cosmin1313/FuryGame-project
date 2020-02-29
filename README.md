@@ -337,3 +337,4 @@ Do you remember the `require()` function and how we export modules?
 
 
 **This repository will be deleted two weeks after the end of the course. This will result in the removal of all forks made from this repository. If you wish to keep the access to the exercises, remember to make a copy of the repository onto your computer!**
+# FuryGame-project
